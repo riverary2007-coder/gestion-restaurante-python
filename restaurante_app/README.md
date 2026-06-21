@@ -1,6 +1,6 @@
-# Sistema de Gestión de Restaurante
+Sistema de Gestión de Restaurante
 
-# Estudiante
+Estudiante
 Arely Rivera
 
 # Descripción
